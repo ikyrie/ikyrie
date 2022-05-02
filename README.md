@@ -32,6 +32,8 @@ My main focus is front-end development. Here you can find (maybe) projects using
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="48px" alt="VueJS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48px" alt="Bootstrap"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48px" alt="SASS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48px" alt="Flutter"/>
+
 </div>
 
 I also like to design some of my projects using these apps:
